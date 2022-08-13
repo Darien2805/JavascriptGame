@@ -1,5 +1,5 @@
 
-import { Sitting, Running, Jumping, Falling , Rolling, Diving, Hit} from "./playerStates";
+import { Sitting, Running, Jumping, Falling , Rolling, Diving, Hit} from "./playerStates.js";
 import { collisionAnimation } from "./collisionAnimation.js";
 import {FloatingMessage} from './floatingMessages.js';
 
