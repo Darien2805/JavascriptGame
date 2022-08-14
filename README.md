@@ -5,6 +5,8 @@
  ## Project Description
 A 2 Dimensional game project build on HTML, CSS and Javascript. A project learn from [Youtube](https://www.youtube.com/watch?v=GFO_txvwK_c).
 
+Click [here](https://2d-javascript-game.netlify.app/) to play now!
+
 ![Image 1](ReadMe_Images/Image1.JPG)
 
 ## How to play the game !
